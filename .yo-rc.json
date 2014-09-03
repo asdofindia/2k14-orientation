@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "MBBS at Mysore Medical College & Research Institute",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "asdofindia",
+    "githubRepository": "2k14-orientation"
+  }
+}
